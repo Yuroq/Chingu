@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@canvasjs/charts": "^3.7.16",
+    "@nivo/geo": "^0.83.0",
+    "chart.js": "^4.3.3",
+    "igniteui-react-charts": "^18.2.1",
+    "igniteui-react-core": "^18.2.1",
+    "igniteui-react-maps": "^18.2.1",
+    "jvectormap-next": "^3.1.1",
+    "react-simple-maps": "^3.0.0"
+  }
+}
